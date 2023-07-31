@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 
-module RootHelper
+module GreetingsHelper
 end
