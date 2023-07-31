@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class GreetingsController < ApplicationController
   def random_greeting
     @random_greeting = Greeting.all.sample
